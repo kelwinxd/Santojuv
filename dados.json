@@ -1,0 +1,20 @@
+[
+    {
+        "id": "66cfb78facf2f",
+        "dia_numero": "8",
+        "dia_nome": "Domingo",
+        "evento": "culto missa"
+    },
+    {
+        "id": "66cfbc80f1242",
+        "dia_numero": "13",
+        "dia_nome": "Ter\u00e7a-feira",
+        "evento": "teste"
+    },
+    {
+        "id": "66cfbd9705d3d",
+        "dia_numero": "9",
+        "dia_nome": "Quarta-feira",
+        "evento": "almo\u00e7ar denovo"
+    }
+]
